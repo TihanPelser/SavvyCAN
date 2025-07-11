@@ -46,3 +46,11 @@ SavvyCAN.pro.qtds
 .xcode
 SavvyCAN.xcodeproj
 .vscode
+
+# Python files
+*.pyc
+*.pyo
+__pycache__/
+
+# Virtual Environment
+venv/
